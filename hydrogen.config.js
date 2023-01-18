@@ -1,9 +1,9 @@
-import {defineConfig} from '@shopify/hydrogen/config';
+import { defineConfig } from "@shopify/hydrogen/config";
 
 export default defineConfig({
   shopify: {
-    storeDomain: 'hydrogen-preview.myshopify.com',
-    storefrontToken: '3b580e70970c4528da70c98e097c2fa0',
-    storefrontApiVersion: '2022-07',
+    storeDomain: "hydrogenpedals.myshopify.com",
+    storefrontToken: "b5a6b4546a65e3a09dd029673f100e6e",
+    storefrontApiVersion: "2022-07",
   },
 });
